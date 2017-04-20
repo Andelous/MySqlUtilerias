@@ -17,7 +17,7 @@ namespace MySqlUtilerias.Exception
         /// </summary>
         /// <param name="e">Excepcion a analizar.</param>
         /// <returns>Devuelve el tipo de error del lado del servidor.</returns>
-        public static TipoError obtenerTipoExcepcion(MySqlException e)
+        public static TipoError obtenerTipoError(MySqlException e)
         {
             switch (e.Number)
             {
