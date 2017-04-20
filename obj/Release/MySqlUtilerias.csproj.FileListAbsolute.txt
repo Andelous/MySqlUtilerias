@@ -1,0 +1,8 @@
+C:\Users\angel\documents\visual studio 2015\Projects\MySqlDataSource\MySqlUtilerias\bin\Release\MySqlUtilerias.dll
+C:\Users\angel\documents\visual studio 2015\Projects\MySqlDataSource\MySqlUtilerias\bin\Release\MySqlUtilerias.pdb
+C:\Users\angel\documents\visual studio 2015\Projects\MySqlDataSource\MySqlUtilerias\bin\Release\MySql.Data.dll
+C:\Users\angel\documents\visual studio 2015\Projects\MySqlDataSource\MySqlUtilerias\bin\Release\MySql.Data.xml
+C:\Users\angel\documents\visual studio 2015\Projects\MySqlDataSource\MySqlUtilerias\obj\Release\MySqlUtilerias.csprojResolveAssemblyReference.cache
+C:\Users\angel\documents\visual studio 2015\Projects\MySqlDataSource\MySqlUtilerias\obj\Release\MySqlUtilerias.dll
+C:\Users\angel\documents\visual studio 2015\Projects\MySqlDataSource\MySqlUtilerias\obj\Release\MySqlUtilerias.pdb
+C:\Users\angel\documents\visual studio 2015\Projects\MySqlDataSource\MySqlUtilerias\bin\Release\MySqlUtilerias.XML
