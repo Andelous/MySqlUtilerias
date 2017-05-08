@@ -1,8 +1,0 @@
-C:\Users\angel\documents\visual studio 2015\Projects\MySqlDataSource\MySqlUtilerias\bin\Debug\MySqlUtilerias.dll
-C:\Users\angel\documents\visual studio 2015\Projects\MySqlDataSource\MySqlUtilerias\bin\Debug\MySqlUtilerias.pdb
-C:\Users\angel\documents\visual studio 2015\Projects\MySqlDataSource\MySqlUtilerias\bin\Debug\MySql.Data.dll
-C:\Users\angel\documents\visual studio 2015\Projects\MySqlDataSource\MySqlUtilerias\bin\Debug\MySql.Data.xml
-C:\Users\angel\documents\visual studio 2015\Projects\MySqlDataSource\MySqlUtilerias\obj\Debug\MySqlUtilerias.csprojResolveAssemblyReference.cache
-C:\Users\angel\documents\visual studio 2015\Projects\MySqlDataSource\MySqlUtilerias\obj\Debug\MySqlUtilerias.dll
-C:\Users\angel\documents\visual studio 2015\Projects\MySqlDataSource\MySqlUtilerias\obj\Debug\MySqlUtilerias.pdb
-C:\Users\angel\documents\visual studio 2015\Projects\MySqlDataSource\MySqlUtilerias\bin\Debug\MySqlUtilerias.XML
