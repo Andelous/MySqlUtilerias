@@ -45,6 +45,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="DataSource\IMySqlDataSource.cs" />
+    <Compile Include="DataSource\MySqlDataSourceGeneric.cs" />
     <Compile Include="Exception\MySqlExceptionHandler.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Exception\TipoError.cs" />
